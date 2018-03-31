@@ -1,0 +1,401 @@
+body
+{
+background:url("images/bg.jpg");
+margin:0;
+}
+.wrapper
+{
+  width:1200px;
+  height:2000px;
+  background:url("images/bg.jpg");
+  margin:0 auto;
+
+}
+.tborder
+{
+ width:1200px;
+ height:30px;
+ background:#000000;
+}
+.tbox
+{
+width:150px;
+height:90px;
+background:#000000;
+margin-left:10px;
+
+}
+.menu
+{
+width:1000px;
+height:90px;
+float:left;
+background:#FFF8DC;
+margin-left:148px;
+}
+ul.navigation li 
+{
+list-style-type:none;
+margin:0px;
+
+
+}
+ul.navigation li a
+{
+
+text-decoration:none;
+margin:8px;
+float:left;
+color:black;
+padding:10px;
+margin:0;
+}
+ul.navigation li a:hover
+{
+background:#FF7F2A;
+}
+.slider
+{
+width:800px;
+height:500px;
+margin-left:100px;
+margin-top:5px;
+float:left;
+
+}
+.firstpart
+{
+width:960px;
+height:650px;
+background:#FFF8DC;
+margin-left:100px;
+}
+.fone
+{
+width:220px;
+height:430px;
+background:#EBEBEB;
+float:left;
+margin:5px;
+margin-left:10px;
+border:1px solid #999999;
+
+}
+.fone a
+{
+ float:right;
+ margin-top:20px;
+ color:orange;
+}
+.ftwo
+{
+ width:220px;
+ height:430px;
+ background:#EBEBEB;
+ float:left;
+ margin:5px;
+ margin-left:10px;
+ border:1px solid #999999;
+}
+.ftwo a
+{
+ float:right;
+ margin-top:20px;
+ color:orange;
+}
+
+.fthree
+{
+width:220px;
+height:430px;
+background:#EBEBEB;
+float:left;
+margin:5px;
+margin-left:10px;
+border:1px solid #999999;
+}
+.fthree a
+{
+ float:right;
+ margin-top:20px;
+ color:orange;
+}
+
+.ffour
+{
+ width:220px;
+ height:430px;
+ background:#EBEBEB;
+ float:left;
+ margin:5px;
+ margin-left:10px;
+ border:1px solid #999999;
+
+}
+.ffour a
+{
+ float:right;
+ margin-top:20px;
+ color:orange;
+}
+.secondpart
+{
+ width:950px;
+ height:300px;
+ background:#FFF8DC;
+ margin-left:100px;
+
+}
+.sdiv1
+{
+width:450px;
+height:300px;
+background:#FFF8DC;;
+float:left;
+}
+.pic
+{
+width:200px;
+height:200px;
+background:#FFF8DC;;
+float:left;
+}
+.sdiv1r
+{
+width:250px;
+height:220px;
+background:#FFF8DC;;
+float:left;
+} 
+.sdiv2
+{
+width:250px;
+height:300px;
+background:#FFF8DC;
+float:left;
+}
+ul.sdiv2u
+{
+list-style-type:none;
+margin:0;
+margin-top:20px;
+
+}
+ul.sdiv2u li
+{
+margin-top:8px;
+}
+ul.sdiv2u li a
+{
+ text-decoration:none;
+ color:#33CC33; 
+ font-size:18px;
+ 
+}
+.sdiv3
+{
+width:250px;
+height:300px;
+background:#FFF8DC;;
+float:left;
+}
+.sdiv3u
+{
+list-style-type:none;
+}
+.sdiv3u li
+{
+ margin-top:8px;
+}
+.sdiv3u li a
+{
+ text-decoration:none;
+ color:#33CC33; 
+font-size:18px; 
+
+}
+
+.footer
+{
+ width:950px;
+ height:625px;
+ background:#999999;
+ margin-left:80px;
+ float:left;
+ margin-top:3px;
+}
+.footer1
+{
+margin-top:50px;
+width:237px;
+height:400px;
+background:#999999;
+float:left;
+}
+ul.footer1u
+{
+list-style-type:none;
+margin-top:30px;
+margin-left:20px;
+padding:0px;
+float:left;
+}
+ul.footer1u li
+{
+margin-top:20px;
+float:left;
+
+}
+ul.footer1u li a
+{
+text-decoration:none;
+color:black;
+
+}
+
+.footer2
+{
+width:237px;
+height:400px;
+background:#999999;
+float:left;
+}
+ul.footer2u
+{
+list-style-type:none;
+
+}
+ul.footer2u li 
+{
+margin-top:20px;
+
+}
+ul.footer2u li a
+{
+text-decoration:none;
+color:black;
+
+}
+.footer3
+{
+width:237px;
+height:400px;
+background:#999999;
+float:left;
+}
+ul.footer3u li
+{
+list-style-type:none;
+margin-top:20px;
+} 
+ul.footer3u li a
+{
+ text-decoration:none;
+ color:black;
+}
+
+.footer4
+{
+ width:238px;
+ height:400px;
+ background:#999999;
+ float:left;
+}
+ul.footer4u li
+{
+list-style-type:none;
+margin-top:20px;
+
+}
+ul.footer4u li a 
+{
+  text-decoration:none;
+  color:black;
+}
+.footerbottom
+{
+width:950px;
+height:225px;
+background:#999999;
+float:left;
+}
+.footerbottom p
+{
+ margin-left:30px;
+}
+
+
+
+
+/*about us
+
+.aboutspace
+{
+ width:1000px;
+ height:1254px;
+ background:#FFD4D4;
+ margin-left:100px;
+}
+.slider
+{
+width:1000px;
+height:300px;
+margin-bottom:2px;
+
+}
+.first
+{
+width:1000px;
+height:300px;
+background:#AA7FFF;
+margin-bottom:2px;
+}
+.div1
+{
+
+
+}
+*/
+
+/* contact */
+
+.contactspace
+{
+
+width:1000px;
+height:1180px;
+background:yellow;
+margin-left:100px;
+float:left;
+}
+
+
+dl.contact
+{
+width:700px;
+height:60px;
+float:left;
+margin:5px;
+
+}
+dl.contact dt
+{
+width:200px;
+height:20px;
+float:left;
+font-size:18px;
+}
+dl.contact dd
+{
+width:200px;
+height:20px;
+float:left;
+margin:1px;
+float:left;
+}
+
+input[type="text"]
+{
+width:200px;
+height:20px;
+}
